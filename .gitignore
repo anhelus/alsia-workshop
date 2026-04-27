@@ -1,1 +1,4 @@
 Notebooks/res
+Notebooks/runs
+Notebooks/data/lettuce-train-2
+*.cache
